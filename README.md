@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uheed09
+- 👋 Hi, I’m @Uheed
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on CMS
