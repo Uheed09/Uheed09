@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uheed
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on CMS
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate
 - 📫 You can reach me at https://uheed-asif.web.app/
 
 <!---
